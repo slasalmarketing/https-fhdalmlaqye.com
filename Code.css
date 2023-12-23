@@ -62,9 +62,7 @@ ul.main-nav>li:hover>a, .item-all-categories>a {
     background: #d4ccb2;
     opacity: 1;
 }
-.search-header.header-theme-bg-primary, .account-lang-currency.upper-bar {
-    background: #d4cbb0 !IMPORTANT;
-}
+
 .search-header {
     padding: 15px 0 !IMPORTANT;
     background-color: black !IMPORTANT;
