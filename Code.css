@@ -63,3 +63,19 @@ ul.main-nav>li:hover>a, .item-all-categories>a {
     background: #d4ccb2;
     opacity: 1;
 }
+.search-header.header-theme-bg-primary, .account-lang-currency.upper-bar {
+    background: #d4cbb0;
+}
+.search-header {
+    padding: 15px 0;
+    background-color: black;
+}
+.dark.d-none.d-lg-block {
+    background: #fdca89;
+    border-bottom: 3px solid #d4ccb2;
+}
+body {
+    background: url(https://i.ibb.co/Y7YkxQs/3-ENAYTK-UI-BACKGROUND.jpg);
+    max-width: 2000px;
+    margin: auto;
+}
