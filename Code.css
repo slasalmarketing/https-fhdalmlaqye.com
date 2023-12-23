@@ -1,6 +1,6 @@
 @import url('https://pro.fontawesome.com/releases/v6.0.0-beta3/css/all.css');body{background:#d4ccb2;max-width:2000px;margin:auto}
 .account-lang-currency.upper-bar{border:0}
-.search-header.header-theme-bg-primary,.account-lang-currency.upper-bar{background:#d4ccb2}
+.search-header.header-theme-bg-primary,.account-lang-currency.upper-bar{background:black}
 s .header-theme-icon-primary span.path1{color:#6b8570}
 .rtl .search-input-input{border-radius:50px;box-shadow:0 6px 10px -6px #000;border:0;/* border:3px solid #eb7e39;*/
     background:#ffffff}
