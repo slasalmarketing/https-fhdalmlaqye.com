@@ -76,3 +76,21 @@ body {
     max-width: 2000px;
     margin: auto;
 }
+.text-color-primary {
+    color: black;
+}
+.theme-text-primary {
+    color: black;
+}
+.btn-add-to-cart {
+    background-color: black;
+    color: var(--text-color-primary-bg);
+    width: 100%;
+    padding: 10px;
+    font-size: 1.4rem;
+}
+.theme-text-primary {
+    color: black;
+}
+
+
