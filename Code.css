@@ -64,15 +64,15 @@ ul.main-nav>li:hover>a, .item-all-categories>a {
     opacity: 1;
 }
 .search-header.header-theme-bg-primary, .account-lang-currency.upper-bar {
-    background: #d4cbb0;
+    background: #d4cbb0 !IMPORTANT;
 }
 .search-header {
-    padding: 15px 0;
-    background-color: black;
+    padding: 15px 0 !IMPORTANT;
+    background-color: black !IMPORTANT;
 }
 .dark.d-none.d-lg-block {
-    background: #fdca89;
-    border-bottom: 3px solid #d4ccb2;
+    background: #fdca89 !IMPORTANT;
+    border-bottom: 3px solid #d4ccb2 !IMPORTANT;
 }
 body {
     background: url(https://i.ibb.co/Y7YkxQs/3-ENAYTK-UI-BACKGROUND.jpg);
