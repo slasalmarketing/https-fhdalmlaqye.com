@@ -6,7 +6,7 @@ s .header-theme-icon-primary span.path1{color:#6b8570}
     background:#ffffff}
 #product-518645554 > div.row > *{position:static}
 #product-518645554 > div.row div > *{position:static}
-section.ss .container.container-slider{max-width:100%!important;padding:0}
+// section.ss .container.container-slider{max-width:100%!important;padding:0}
 // .main-slider .slider-item{width:100%!important}
 // .main-slider.slider.s-slider.slick-initialized.slick-slider{max-height:initial}
 .product-item{border:3px solid #000000;background:#e5c9a2;border-radius:10px}
@@ -17,7 +17,7 @@ h1.section-title.theme-title-primary{color:#000000!important}
 .gallery-section.container .gallery.row{display:flex;justify-content:center}
 .gallery-section.container .gallery.row > .gallery-item{max-width:31%;margin:0}
 a.btn.btn-primary.btn-product-card-out-of-stock{cursor:no-drop}
-section.ss .container.container-slider .slick-track{margin:0;width:100%!important}
+// section.ss .container.container-slider .slick-track{margin:0;width:100%!important}
 .sticky .search-header.header-theme-bg-primary{border-bottom:3px solid #000000;background:#d4ccb2}
 header{background:#372360}
 .menu-header-theme-bg-primary{background:#fff}
@@ -28,11 +28,11 @@ ol.breadcrumb,ol.breadcrumb *,.subTitle-detail{background:#fff;color:#000!import
 .sm-search-div{background:#dcecf1}
 nav#sliding-menu .account-area *,nav#sliding-menu .language-currency,nav#sliding-menu .language-currency *,nav#sliding-menu .icon-language_white:before{color:#fff!important}
 .home-categories-section.section-padding-space{padding:0;margin:0;background:transparent}
-div#slider-home57613e1f-8058-4467-9837-1c8b69388b17{margin:0!important}
-.categories-slider{display:flex;align-items:center;justify-content:space-between}
-.categories-slider .cat-col{flex:0 0 35%;max-width:31%;padding:0}
-.categories-slider .cat-col .category-item{max-width:85%;margin:auto}
-.categories-slider .cat-col:nth-of-type(2) .category-item{max-width:100%}
+// div#slider-home57613e1f-8058-4467-9837-1c8b69388b17{margin:0!important}
+// .categories-slider{display:flex;align-items:center;justify-content:space-between}
+// .categories-slider .cat-col{flex:0 0 35%;max-width:31%;padding:0}
+// .categories-slider .cat-col .category-item{max-width:85%;margin:auto}
+// .categories-slider .cat-col:nth-of-type(2) .category-item{max-width:100%}
 .category-item .category-link span.category-title{position:relative;transform:scale(1);background:transparent;color:#372360}
 .footer-store-section-bars{flex-direction:column!important;align-items:center!important}
 .vat-crn-sections > div img{height:60px}
