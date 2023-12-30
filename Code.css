@@ -7,8 +7,8 @@ s .header-theme-icon-primary span.path1{color:#6b8570}
 #product-518645554 > div.row > *{position:static}
 #product-518645554 > div.row div > *{position:static}
 section.ss .container.container-slider{max-width:100%!important;padding:0}
-.main-slider .slider-item{width:100%!important}
-.main-slider.slider.s-slider.slick-initialized.slick-slider{max-height:initial}
+// .main-slider .slider-item{width:100%!important}
+// .main-slider.slider.s-slider.slick-initialized.slick-slider{max-height:initial}
 .product-item{border:3px solid #000000;background:#e5c9a2;border-radius:10px}
 a.btn.btn-primary.product-card-add-to-cart,a.btn.btn-primary.btn-product-card-select-variant{background:#000000!important;border:0;position:relative;top:-15px}
 h1.section-title.theme-title-primary{color:#000000!important}
