@@ -1,8 +1,4 @@
-.search-header-bar :hover{ 
-         box-shadow: none;
-transition: box-shadow 0.15s ease-out, transform 0.25s ease !important;
-         perspective: 600px !important;
-}
+
 .search-header-bar :hover {
     box-shadow: none;
     transition: box-shadow 0.15s ease-out, transform 0.25s ease !important;
@@ -10,7 +6,6 @@ transition: box-shadow 0.15s ease-out, transform 0.25s ease !important;
     transform: rotate3d(0, 0, 1, 360deg);
 }
 .search-header-bar :hover {
-    /* transform: scale(1.1); */
     box-shadow: none;
     transform: rotate3d(0, 0, 1, 360deg);
 }
