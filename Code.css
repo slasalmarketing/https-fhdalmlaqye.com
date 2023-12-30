@@ -1,7 +1,7 @@
-.search-header-bar :hover{ transform: scale(1.1);
+.search-header-bar :hover{ 
          box-shadow: none;
-transition: box-shadow 0.15s ease-out, transform 0.25s ease;
-         perspective: 600px;
+transition: box-shadow 0.15s ease-out, transform 0.25s ease !important;
+         perspective: 600px !important;
 }
 .search-header .image-logo :hover{
     padding: 0;
